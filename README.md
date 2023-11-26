@@ -104,11 +104,6 @@ Please be wary of working on issues _not_ marked as `accepted`. Just because som
 Astropod is licensed under the MIT license — see the [LICENSE](https://github.com/manuelernestog/astropod/blob/main/LICENSE) file for details.
 
 ## Contributors
-
-[![Manuel Ernestog](https://contrib.rocks/image?repo=manuelernestog/astropod)](https://github.com/manuelernestog/astropod/graphs/contributors)
-
-Made with [contrib.rocks](https://contrib.rocks).
-
 [deploy]: https://app.netlify.com/start/deploy?repository=https://github.com/manuelernestog/astropod
 [identity]: https://docs.netlify.com/visitor-access/identity/
 [gateway]: https://docs.netlify.com/visitor-access/git-gateway/
